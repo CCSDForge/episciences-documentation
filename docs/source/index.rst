@@ -12,6 +12,7 @@ how to :ref:`installation` the project.
 .. note::
 
    This project is under active development.
+Modification de la page index.rst
 
 Contents
 --------
