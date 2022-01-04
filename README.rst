@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Repository for Episciences Documentation
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+[![Documentation Status](https://readthedocs.org/projects/episciences/badge/?version=latest)](https://episciences.readthedocs.io/en/latest/?badge=latest)
 
-Read the tutorial here:
 
-https://docs.readthedocs.io/en/stable/tutorial/
