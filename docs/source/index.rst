@@ -1,8 +1,8 @@
-Welcome to Episciences documentation
+Welcome to Episciences documentation / Episciences documentation
 ===================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+<!-- Check out the :doc:`usage` section for further information, including
+how to :ref:`installation` the project. -->
 
 .. note::
 
@@ -17,3 +17,4 @@ Contents
    usage
    api
    test.md
+   submission.md
