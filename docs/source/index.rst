@@ -1,12 +1,14 @@
-Welcome to Episciences documentation / Episciences documentation
+.. Welcome to Episciences documentation
+Episciences documentation
 ===================================
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+.. Check out the :doc:`usage` section for further information, including
+.. how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   Bienvenue sur la documentation Episciences. Vous trouverez sur ce site une aide contextuelle pour chaque rôle.
+   Utilisez le moteur de recherche pour trouver l'aide correspondant aux rôles suivants : auteur, rédacteur, administrateur.
 
 
 Contents
@@ -14,7 +16,7 @@ Contents
 
 .. toctree::
 
-   usage
-   api
-   test.md
+   .. usage
+   .. api
+   .. test.md
    submission.md
