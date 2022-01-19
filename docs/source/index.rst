@@ -19,4 +19,6 @@ Contents
    .. usage
    .. api
    .. test.md
+   account.md
    submission.md
+   settings.md
