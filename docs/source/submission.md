@@ -16,7 +16,7 @@ Pour se connecter au site d’une épi-revue, cliquer sur le bouton “Connexion
 
 Une fois connecté, cliquer sur l’onglet “Proposer un article”.
 
-copie d’écran : proposer_article-1.png
+![Alt text](img/submission_submit-1.png "Proposer un article")
 
 + **Archive** : sélectionner l’archive ouverte dans lequel se trouve l’article à soumettre à l’épi-revue ;
 + **Identifiant du document** : indiquer l’identifiant du document sur l’archive ouverte (ex : hal-0000000 pour HAL ; 0000.0000 pour arXiv) ;
@@ -28,7 +28,7 @@ Suivant les paramétrages du site, il est possible de proposer l’article pour 
 
 Le champ libre “Commentaire” permet d’ajouter un mot à l’attention de l’équipe éditoriale de la revue (ce commentaire sera visible des rédacteurs en chefs, rédacteurs et relecteurs).
 
-copie d’écran : proposer_article-2.png
+![Alt text](img/submission_submit-2.png "Proposer un article : champs optionnels")
 
 Afin de pouvoir soumettre l’article, il est nécessaire de certifier :
 + être l’auteur de cet article ou bien être mandaté par l’un des auteurs dans le cadre d’un article écrit à plusieurs ; 
