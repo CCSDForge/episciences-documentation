@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'Episciences'
-copyright = '2021, CCSD'
+copyright = 'CC-BY 2022, CCSD'
 author = 'Episciences contributors'
 
 release = '0.1'
@@ -17,6 +17,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+#    'myst_parser',
 ]
 
 
