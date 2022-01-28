@@ -20,5 +20,6 @@ Contents
    .. api
    .. test.md
    account.md
+   roles.md
    submission.md
    settings.md
