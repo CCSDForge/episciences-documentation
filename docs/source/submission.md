@@ -19,7 +19,7 @@ Une fois connecté, cliquer sur l’onglet “Proposer un article”.
 ![Alt text](img/submission_submit-1.png "Proposer un article")
 
 + **Archive** : sélectionner l’archive ouverte dans lequel se trouve l’article à soumettre à l’épi-revue ;
-+ **Identifiant du document** : indiquer l’identifiant du document sur l’archive ouverte (ex : hal-0000000 pour HAL ; 0000.0000 pour arXiv) ;
++ **Identifiant du document** : indiquer l’identifiant du document sur l’archive ouverte (ex : hal-0000000 pour HAL ; 0000.0000 pour arXiv ; 10.5281/zenodo.0000000 ou 0000000 pour Zenodo) ;
 + **Version** : préciser la version du document à soumettre.
 
 Les métadonnées (prénoms et noms des auteurs, titre, résumé et mots-clés) sont récupérées par le système.

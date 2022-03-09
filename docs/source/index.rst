@@ -22,4 +22,5 @@ Contents
    account.md
    roles.md
    submission.md
+   review.md
    settings.md
