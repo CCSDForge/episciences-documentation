@@ -85,3 +85,18 @@ Lorsqu’un article est soumis, assigner les :
 
 
 + Permettre aux rédacteurs d’abandonner le processus de publication
+
+## Paramètres de notification
+Permettent d’activer des envois de mails à certains rôles (administrateurs, rédacteurs en chef, secrétaires de rédaction) lorsqu’un article est soumis, mis à jour ou refusé.
+
+## Paramètres des volumes spéciaux
+Permet d’attribuer un code d’accès afin de permettre la soumission dans les volumes spéciaux et également de cloisonner les relecteurs d’un volume spécial.
+
+## Préparation de copie
+Permet de cloisonner les préparateurs de copie, c'est-à-dire de leur donner accès seulement aux articles qui leur sont assignés.
+
+## Conflit d’intérêts
+Il est possible d’activer une option pour permettre aux rédacteurs de déclarer un conflit d’intérêts avant l’évaluation.
+
+## Article - décision finale
+Permet de modifier certaines choses sur un article déjà accepté.
