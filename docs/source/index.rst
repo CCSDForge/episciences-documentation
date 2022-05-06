@@ -24,3 +24,4 @@ Contents
    submission.md
    review.md
    settings.md
+   reminders.md
