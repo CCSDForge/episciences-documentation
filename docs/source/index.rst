@@ -25,3 +25,4 @@ Contents
    review.md
    settings.md
    reminders.md
+   mailing.md
