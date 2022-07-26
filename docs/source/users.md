@@ -29,4 +29,3 @@ Par défaut, tout utilisateur a le rôle de *membre*, ce qui lui permet de soume
 Pour ajouter un ou des rôles, se positionner dans la colonne “Rôles” puis sélectionner le ou les rôles choisis parmi ceux proposés dans la liste.
 
 ![Alt text](img/users-3.png "Ajouter un rôle")
-
