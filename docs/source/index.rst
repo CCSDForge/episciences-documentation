@@ -24,5 +24,6 @@ Contents
    submission.md
    review.md
    settings.md
+   volumes.md
    reminders.md
    mailing.md
