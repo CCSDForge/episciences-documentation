@@ -25,5 +25,6 @@ Contents
    review.md
    settings.md
    volumes.md
+   users.md
    reminders.md
    mailing.md
