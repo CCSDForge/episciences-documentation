@@ -26,5 +26,6 @@ Contents
    settings.md
    volumes.md
    users.md
+   grids.md
    reminders.md
    mailing.md
