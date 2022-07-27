@@ -23,6 +23,7 @@ Contents
    roles.md
    submission.md
    review.md
+   copyediting.md
    website.md
    settings.md
    volumes.md
