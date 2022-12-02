@@ -9,7 +9,7 @@ author = 'Episciences contributors'
 release = '0.1'
 version = '0.1.0'
 
-html_logo = '_static/episciences.svg',
+html_logo = '_static/episciences.svg'
 
 # -- General configuration
 
