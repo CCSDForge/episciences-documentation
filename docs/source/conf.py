@@ -10,8 +10,14 @@ release = '0.1'
 version = '0.1.0'
 
 html_logo = '_static/episciences.svg'
-
+html_css_files = [
+    'css/episciences.css',
+]
 # -- General configuration
+
+html_theme_options = {
+    'logo_only': True,
+    }
 
 extensions = [
     'myst_parser',
