@@ -1,4 +1,4 @@
-# Repository for Episciences Documentation
+# Repository for Episciences Documentation - English Version
 
 Made with [Sphinx](https://www.sphinx-doc.org/)
 
