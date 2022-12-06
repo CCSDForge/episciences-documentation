@@ -1,4 +1,4 @@
-# Grille de relecture
+# Reviewing/rating grids
 
 > Rôles : administrateur, rédacteur en chef, secrétaire de rédaction
 

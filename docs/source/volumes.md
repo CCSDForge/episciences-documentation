@@ -1,4 +1,4 @@
-# Volumes et rubriques
+# Volumes and sections
 
 > **Rôles** : administrateur, rédacteur en chef, secrétaire de rédaction
 

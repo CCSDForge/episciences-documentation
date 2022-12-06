@@ -1,4 +1,4 @@
-# Rôles
+# User roles
 
 > **Rôles** : administrateur, auteur, membre, préparateur de copie, rédacteur, rédacteur en chef, rédacteur invité, relecteur, secrétaire de rédaction, webmaster
 

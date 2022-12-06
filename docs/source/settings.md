@@ -1,4 +1,4 @@
-# Paramètres de la revue
+# Journal settings
 
 > **Rôle** : administrateur
 

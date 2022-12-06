@@ -1,4 +1,4 @@
-# Relances automatiques
+# Automatic reminders
 > **Rôles** : administrateur, rédacteur, rédacteur en chef, secrétaire de rédaction
 
 Pour créer et paramétrer les relances, aller dans : Gérer la revue > Mails > Relances automatiques.

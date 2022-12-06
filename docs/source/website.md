@@ -1,4 +1,4 @@
-# Gérer le site
+# Managing the website
 > Rôles : administrateur, rédacteur en chef, secrétaire de rédaction, webmaster
 
 L’apparence du site web peut être personnalisée pour donner une identité visuelle spécifique à la revue.

@@ -1,4 +1,4 @@
-# Soumettre un article
+# Submitting an article
 
 > **Rôle** : auteur
 

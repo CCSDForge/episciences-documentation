@@ -1,4 +1,4 @@
-# Module de mail
+# Emailing module
 > **Rôles** : administrateur, rédacteur, rédacteur en chef, secrétaire de rédaction, webmaster
 
 ## Mailing

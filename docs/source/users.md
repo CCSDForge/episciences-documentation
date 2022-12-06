@@ -1,4 +1,4 @@
-# Gestion des utilisateurs
+# Managing users
 
 > Rôles : administrateur, rédacteur en chef, secrétaire de rédaction
 

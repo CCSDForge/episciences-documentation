@@ -1,4 +1,4 @@
-# Relire un article
+# Peer-reviewing an article
 
 > **Rôle** : relecteur
 

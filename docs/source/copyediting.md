@@ -1,4 +1,4 @@
-# Préparation de copie
+# Copy editing
 > **Rôles** : auteur, préparateur de copie
 
 La préparation de copie (ou copy editing) est une étape qui intervient après l’acceptation de l’article.

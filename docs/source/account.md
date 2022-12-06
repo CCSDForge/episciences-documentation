@@ -1,4 +1,4 @@
-# Compte et profil
+# Account and user profiles
 > **Rôles** : auteur, rédacteur, administrateur, rédacteur en chef, secrétaire de rédaction, webmaster, rédacteur invité, préparateur de copie, relecteur, membre, invité
 
 Si vous avez déjà un compte sur HAL, vous n’avez pas besoin de vous créer un compte spécifique pour accéder à Episciences. Il vous suffit de renseigner vos login/mot de passe de votre compte HAL.
