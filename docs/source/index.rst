@@ -7,8 +7,8 @@ Episciences documentation
 
 .. note::
 
-   Bienvenue sur la documentation Episciences. Vous trouverez sur ce site une aide contextuelle pour chaque rôle.
-   Utilisez le moteur de recherche pour trouver l'aide correspondant aux rôles suivants : auteur, rédacteur, administrateur.
+   Welcome to the Episciences documentation. On this site you will find contextual help for each role.
+   Use the search engine to find help for the following roles: author, editor, administrator.
 
 
 Contents
@@ -17,8 +17,6 @@ Contents
 .. toctree::
 
    .. usage
-   .. api
-   .. test.md
    account.md
    roles.md
    submission.md
