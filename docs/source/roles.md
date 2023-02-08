@@ -1,6 +1,6 @@
 # User roles
 
-> **Rôles** : administrateur, auteur, membre, préparateur de copie, rédacteur, rédacteur en chef, rédacteur invité, relecteur, secrétaire de rédaction, webmaster
+> **Rights**: Editor in Chief, Administrator, Editorial secretary, Editor, Webmaster, Guest editor, Copy editor, Reviewer, Author, Member
 
 There are **ten roles** in Episciences, each with rights associated with features.
 
