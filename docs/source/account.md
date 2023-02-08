@@ -1,60 +1,70 @@
 # Account and user profiles
-> **Rôles** : auteur, rédacteur, administrateur, rédacteur en chef, secrétaire de rédaction, webmaster, rédacteur invité, préparateur de copie, relecteur, membre, invité
+> **Rights** : Editor in Chief, Administrator, Editorial secretary, Editor, Webmaster, Guest editor, Copy editor, Reviewer, Author, Member
 
-Si vous avez déjà un compte sur HAL, vous n’avez pas besoin de vous créer un compte spécifique pour accéder à Episciences. Il vous suffit de renseigner vos login/mot de passe de votre compte HAL.
+If you already have an account on HAL, you do not need to create a specific account to reach Episciences. You just have to fill in your login/password of your HAL account.
 
-## Créer un compte
-La création d’un compte se fait en deux étapes :
-1. renseigner les informations nécessaires à la création du compte dans le formulaire dédié sur le site de la revue ;
-2. valider la création du compte en cliquant sur le lien d’activation reçu par mail.
+## Create an account
+There are two steps to creating an account:
+1. Fill in the information required to create the account in the dedicated form on the journal’s website;
+2. Validate the creation of the account by clicking on the activation link received by e-mail.
 
-Sur le site de la revue, cliquer sur “+ Créer un compte” en haut à droite.
+On the journal’s website, click on "+ Create account" at the top right.
 
-Les champs marqués d’un astérisque sont obligatoires.
+Fields marked with an asterisk are required.
 
-![Alt text](img/account-1.png "Créer un compte")
+![Alt text](img/account-1.png "Create account")
 
-Saisir les informations :
-+ **login*** : il s’agit de votre nom d’utilisateur. Il doit comporter au minimum 3 caractères et ne pourra pas être modifié par la suite ;
-+ **mot de passe*** : il doit comporter au minimum 7 caractères ;
-+ mot de passe (confirmation)* ;
-+ **nom de famille*** : avec une majuscule à l’initiale (ex : Dupont) ;
-+ **prénom*** : avec une majuscule à l’initiale (ex : Camille) ;
-+ **nom à afficher** : par défaut, vos prénom et nom seront affichés ;
-+ **ORCID** : si vous en avez déjà un, saisissez ici votre identifiant à 16 chiffres ;
-+ **affiliation(s)** : nom ou acronyme de votre/vos structures (une seule par ligne : utilisez le bouton + pour ajouter des lignes supplémentaires) ;
-+ **langue par défaut** : choisir anglais ou français comme langue à afficher dans l’interface ;
-+ **courriel*** : indiquer ici une adresse valide sur laquelle sera envoyée le lien de validation.
+Enter the information:
++ **Login***: this is your user name. It must be at least 3 characters long and cannot be changed afterwards;
++ **Password***: this must be at least 7 characters long;
++ **Password (confirm)***: confirm password;
++ **Last Name***: with a capital letter in the first letter (e.g. Jones);
++ **First Name***: with a capital letter in the first initial (e.g. Jill);
++ **Screen Name**: by default, your first and last name will be displayed;
++ **ORCID**: if you already have one, enter your 16-digit ID here;
++ **Affiliation(s)**: name or acronym of your organisation(s) (only one per line: use the + button to add more lines);
++ **Twitter username or Mastodon**: enter your Twitter account (e.g @anonymous) or Mastodon account (e.g 
+  @username@server);
+  **Web Site(s)**: enter the website you wish to add (only one per line: use the + button to add more lines);
++ **Default Language**: choose English or French as the language to be displayed in the interface;
++ **E-mail***: indicate here a valid address to which the validation link will be sent.
 
-Cocher la case “Je suis un humain” afin de pouvoir valider les informations.
+Check the box “I am human” in order to validate the information.
 
-![Alt text](img/account-2.png "Valider la création du compte")
+![Alt text](img/account-2.png "Validate the creation of the account")
 
-Pour finaliser l’étape de création de compte, valider celle-ci en activant le lien reçu par mail. À noter que le mail d’activation de compte n’est pas envoyé immédiatement (sa réception peut prendre un peu de temps). Pensez à vérifier que le mail n’est pas arrivé dans les spams.
+To finalise the account creation stage, validate it by activating the link received by e-mail. Please note that the account activation e-mail is not sent immediately (it may take some time to receive it). Remember to check that the e-mail has not arrived in the spam folder.
 
-Une fois le compte créé, vous pouvez vous connecter au site.
+Once the account is created, you can connect to the website.
 
-## Modifier son profil
-Pour modifier son profil, se connecter puis cliquer sur “Modifier mon profil” en haut à droite.
-![Alt text](img/account-3.png "Modifier mon profil")
-Les informations suivantes peuvent être ajoutées à votre compte après sa création :
-+ **civilité** : Mme, M., Dr, Pr, etc. ;
-+ **complément de nom** ;
-+ **photo** : au format .jpg, .gif ou .png).
+## Modify your profile
+To modify your profile, log in and click on “Edit profile” at the top right.
 
-Vous pouvez également ajouter votre **ORCID**, renseigner vos **affiliations** et modifier la **langue par défaut** de l’interface.
+![Alt text](img/account-3.png "Edit profile")
 
-## Modifier son mot de passe
-Pour modifier son mot de passe, se connecter puis cliquer sur “Modifier mon mot de passe” en haut à droite.
-![Alt text](img/account-4.png "Modifier mon mot de passe")
-Il est nécessaire d’indiquer son mot de passe actuel pour pouvoir le modifier.
+The following information can be added to your account after its creation:
++ **Title**: Mrs, Mr, Dr, Prof, etc.;
++ **Middle Name**;
++ **Picture**: jpg, .gif or .png format.
 
-Le nouveau mot de passe doit comporter 7 caractères minimum.
+You can also add your **ORCID**, fill in your **affiliations** and change the **default language** of the interface.
 
-## Login ou mot de passe oublié
-En cas d’oubli de votre mot de passe ou de votre login, cliquez sur “Mot de passe oublié ?” ou “Login oublié ?” en haut à droite du bouton “Connexion”.
-![Alt text](img/account-5.png "Login ou mot de passe oublié")
-+ Si vous avez oublié votre **mot de passe**, saisissez votre login puis cliquer sur “Demander un nouveau mot de passe”. Vous recevrez un courriel contenant un lien vers une page où vous pourrez vous créer un nouveau mot de passe.
-+ Si vous avez oublié votre **login** (nom d’utilisateur), saisissez l’adresse mail associée à votre compte. Vous recevrez un courriel contenant votre nom d’utilisateur.
+## Changing your password
+To change your password, log in and click on “Change my password” in the top right-hand corner.
 
-À noter que les mails ne sont pas envoyés immédiatement (leur réception peut prendre un peu de temps). Pensez également à vérifier s’il ne sont pas arrivés dans les spams.
+![Alt text](img/account-4.png "Change my password")
+
+It is necessary to enter your current password in order to change it.
+
+The new password must be at least 7 characters long.
+
+## Forgotten your login or password
+If you have forgotten your password or login, click on “Forgotten password?” or “Forgotten username?” at the top right of the “Sign in” button.
+
+![Alt text](img/account-5.png "Forgotten username or password")
+
++ If you have forgotten your **password**, enter your login and click on “Ask for a new password”. You will receive an e-mail with a link to a page where you can create a new password.
++ If you have forgotten your **username** (login), enter the e-mail address associated with your account and click on 
+  “Receive my username”. You will receive an e-mail containing your username.
+
+Please note that e-mails are not sent immediately (it may take some time to receive them). Please also check if they have not arrived in the spam folder.
