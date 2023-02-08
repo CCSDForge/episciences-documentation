@@ -1,81 +1,83 @@
-# Submitting an article
+# Article submission
 
-> **Rôle** : auteur
+> **Rights**: Author
 
-## Préalable
-Le compte HAL est utilisé pour se connecter sur les sites des épi-revues. En cas de premier dépôt ou si vous ne disposez pas de compte HAL, vous devez vous créer un compte.
+## Prerequisite
+The HAL account is used to connect to the journals’ websites. In case of a first deposit or if you do not have a HAL account, you must create an account.
 
-La soumission d’un article à une épi-revue se fait en deux étapes :
-1. dépôt de la proposition d’article (pré-print) dans une archive ouverte (arXiv, HAL, Zenodo or CWI) ;
-2. soumission du pré-print sur le site Episciences de l’épi-revue.
+Submitting an article to a journal is a two-step process:
+1. deposit of the article proposal (preprint) in an open archive (arXiv, HAL, Zenodo or CWI);
+2. submission of the preprint on the Episciences website of the journal.
 
-## Se connecter au site
-Pour se connecter au site d’une épi-revue, cliquer sur le bouton “Connexion” en haut à droite.
+## Logging in to the site
+To connect to a journal’s website, click on the “Sign in” button at the top right.
 
-![Alt text](img/submission_welcome.png "Accueil")
+Once logged in, click on the “Submit an article” tab.
 
-Une fois connecté, cliquer sur l’onglet “Proposer un article”.
+![Alt text](img/submission-1.png "Submit an article")
 
-![Alt text](img/submission_submit-1.png "Proposer un article")
++ **Repository**: select the open repository in which the article to be submitted to the journal is located; 
++ **Document identifier**: indicate the document identifier on the open repository (e.g. hal-0000000 for HAL; 0000.0000 
+  for arXiv; 10.5281/zenodo.0000000 or 0000000 for Zenodo);
++ **Version**: specify the version of the document to be submitted.
 
-+ **Archive** : sélectionner l’archive ouverte dans lequel se trouve l’article à soumettre à l’épi-revue ;
-+ **Identifiant du document** : indiquer l’identifiant du document sur l’archive ouverte (ex : hal-0000000 pour HAL ; 0000.0000 pour arXiv ; 10.5281/zenodo.0000000 ou 0000000 pour Zenodo) ;
-+ **Version** : préciser la version du document à soumettre.
+The metadata (first and last names of the authors, title, abstract and keywords) are retrieved by the system.
 
-Les métadonnées (prénoms et noms des auteurs, titre, résumé et mots-clés) sont récupérées par le système.
+Depending on the settings of the site, it is possible to propose the article for a volume or a dedicated section, to suggest names of reviewers or to attach a cover letter.
 
-Suivant les paramétrages du site, il est possible de proposer l’article pour un volume ou une rubrique dédiée, de suggérer des noms de relecteurs ou encore de joindre une lettre d’accompagnement.
+The free field “Comment” allows you to add a note to the editorial team of the journal (this comment will be visible to the editors, writers and reviewers).
 
-Le champ libre “Commentaire” permet d’ajouter un mot à l’attention de l’équipe éditoriale de la revue (ce commentaire sera visible des rédacteurs en chefs, rédacteurs et relecteurs).
+![Alt text](img/submission-2.png "Submit an article: optional fields")
 
-![Alt text](img/submission_submit-2.png "Proposer un article : champs optionnels")
+In order to be able to submit the article, it is necessary to certify:
++ you are the author of this article or you are commissioned by one of the authors in the case of an article written by several authors; 
++ not to have published or submitted this article elsewhere.
 
-Afin de pouvoir soumettre l’article, il est nécessaire de certifier :
-+ être l’auteur de cet article ou bien être mandaté par l’un des auteurs dans le cadre d’un article écrit à plusieurs ; 
-+ ne pas avoir publié ou soumis cet article ailleurs.
+Click on “Submit this article” to validate the submission.
 
-Cliquer sur “Proposer cet article” pour valider le dépôt de la soumission.
+## Submit an article to a special issue
+If you have been invited to contribute to a special issue, an access code has been sent to you by e-mail. The procedure is the same as for submitting an article, but you must first enter the access code in the corresponding field.
 
-## Soumettre un article dans un volume spécial
-Si vous avez été invité-e à contribuer à un volume spécial, un code d’accès vous a été envoyé par mail. La procédure 
-est la même que pour soumettre un article mais il faut au préalable saisir le code d’accès dans le champ correspondant.
+![Alt text](img/submission-3.png "Submit an article to a special issue")
 
-![Alt text](img/submission_submit-3.png "Soumettre un article dans un volume spécial")
+After entering the access code, the corresponding issue is displayed.
 
-Après avoir saisi le code d’accès, le volume correspondant s’affiche.
+Finalise the submission procedure by clicking on “Submit this article”.
 
-Finaliser la procédure de dépôt en cliquant sur “Proposer cet article”.
+## Request for modifications
+After evaluation of the article, the author may receive a request for modification from the journal. The author is then invited to rework the article and submit a new version.
 
-## Demande de modifications
-Après évaluation de son article, l’auteur peut recevoir une demande de modification de la part de la revue. Il est alors invité à retravailler son article et à soumettre une nouvelle version.
-Deux possibilités de dépôt existent :
-- Option 1 : dépôt de l’article remanié dans l’archive ouverte
+- Option 1: deposit of the reworked article in the open repository
 
-Se connecter sur HAL et se rendre sur le dépôt initial. Cliquer sur le bouton “Déposer une nouvelle version” en bas de page.
-![Alt text](img/submission_submit-HAL.png "Déposer une nouvelle version")
+Connect on HAL and go on the initial deposit. Click on the button “+ Deposit a new version” in the right hand side.
 
-Une fois la nouvelle version modérée, se connecter à Episciences, se rendre sur la page de l’article. Dans la partie “Demandes de modifications”, dans “Répondre à cette demande”, sélectionner “Proposer une nouvelle version”.
-![Alt text](img/submission_submit-4.png "Proposer une nouvelle version")
+![Alt text](img/submission-4.png "Deposit a new version")
 
-L’identifiant du document et l’archive de l’article soumis sont proposés par défaut. Indiquer la nouvelle version à prendre en compte.
-![Alt text](img/submission_submit-5.png "Proposer une nouvelle version : choix de la version")
+Once the new version has been moderated, log in to Episciences and go to the article’s page. In the “Revision requests” section, in “Answer this request”, select “Upload a new version”.
 
-La nouvelle version est transmise pour relecture.
+![Alt text](img/submission-5.png "Upload a new version")
 
-- Option 2 : soumettre une version temporaire (la version modifiée n’est pas présente dans l’archive)
+The document identifier and the repository of the submitted article are proposed by default. Indicate the new version to be taken into account.
 
-Cette option est à privilégier en cas de modifications mineures.
+![Alt text](img/submission-6.png "Upload a new version: indicate the new version")
 
-Se connecter à Episciences et se rendre sur la page de l’article. Dans la partie “Demandes de modifications”, dans “Répondre à cette demande”, sélectionner “Envoyer une version temporaire”.
-![Alt text](img/submission_submit-6.png "Envoyer une version temporaire")
+The new version is sent for review.
 
-Télécharger la version temporaire. Un commentaire peut également être ajouté pour préciser les modifications apportées à cette version.
-![Alt text](img/submission_submit-7.png "Envoyer une version temporaire : ajouter un commentaire")
+- Option 2: Submit a temporary version (the modified version is not present in the repository)
 
-Cette version est uniquement présente sur Episciences et non visible dans l’archive ouverte. Lorsque l’article sera validé, la version finale devra être téléchargée dans l’archive afin d’obtenir le statut « accepté » (voir option 1).
+This option is best used for minor modifications.
+
+Log in to Episciences and go to the article’s page. In the “Revision requests” section, in “Answer this request”, select "Send a temporary version".
+
+![Alt text](img/submission-7.png "Send a temporary version")
+
+Download the temporary version. A comment can also be added to specify the changes made to this version.
+
+![Alt text](img/submission-8.png "Send a temporary version: add a comment")
+
+This version is only present on Episciences and not visible in the open repository. When the article is validated, the final version must be uploaded to the repository in order to obtain the status “accepted” (see option 1).
 
 
+The published article can be consulted on the journal’s website. Its bibliographic references are automatically updated in the open repository.
 
-L’article publié est consultable sur le site de la revue. Ses références bibliographiques sont mises à jour automatiquement dans l’archive ouverte.
-
-En cas de besoin, vous pouvez contacter le support technique à l’adresse suivante : support [at] episciences.org
+In case of need, you can contact the technical support at the following address: support [at] episciences.org
