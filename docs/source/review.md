@@ -1,70 +1,70 @@
-# Peer-reviewing an article
+# Reviewer guidelines
 
-> **Rôle** : relecteur
+> **Rights**: Reviewer
 
-## Invitation à la relecture d’un article
-Le relecteur reçoit une invitation par mail. Le message contient le titre de l’article, un lien vers l’article dans l’archive ouverte et un lien vers le formulaire de réponse permettant d’accepter ou de refuser l’évaluation de l’article.
+## Invitation to review an article
+The reviewer receives an invitation by e-mail. The message contains the title of the article, a link to the article in the open repository and a link to the response form allowing the reviewer to accept or reject the review.
 
-L’invitation a une durée limitée : le délai de réponse est précisé dans le mail.
+The invitation is time-limited: the response time is specified in the e-mail.
 
-En cliquant sur le lien, le formulaire de réponse à l’invitation s’affiche :
-![Alt text](img/review-1.png "Invitation à la relecture d’un article")
+By clicking on the link, the response form to the invitation is displayed:
+![Alt text](img/review-1.png "Invitation to review an article")
 
-Cliquer sur la réponse souhaitée.
+Click on the required answer.
 
-## Refuser l’invitation
-Pour décliner l’invitation, cliquer sur “Je refuse de relire cet article”.
+## Decline the invitation
+To decline the invitation, click on “I don’t want to review this article”.
 
-Il est alors possible de suggérer le nom d’un autre relecteur ainsi que de préciser les raisons du refus.
+It is then possible to suggest the name of another reviewer and to specify the reasons for the refusal.
 
-![Alt text](img/review-2.png "Détails de la réponse")
+![Alt text](img/review-2.png "Details of the answer")
 
-Dans certains cas, la revue peut demander de déclarer si le relecteur a des intérêts en concurrence avec l’article en cours de révision. Si tel est le cas, cela est considéré comme un motif de refus.
+In some cases, the journal may ask to declare whether the reviewer has competing interests with the article under review. If this is the case, it is considered a reason for rejection.
 
-Cliquer sur “Confirmer mon refus” pour enregistrer la réponse.
+Click on “Confirm my refusal” to save the answer.
 
-Un bouton “J’ai changé d’avis !” permet de revenir au formulaire de réponse à l’invitation.
+A “I've changed my mind!” button allows you to return to the invitation response form.
 
-## Accepter l’invitation
-Après avoir cliqué sur “J’accepte de relire cet article”, un mail est envoyé au relecteur lui permettant d’accéder à l’évaluation de l’article sur le site.
+## Accept the invitation
+After clicking on “I agree to review this article”, an email is sent to the reviewer allowing him/her to access the evaluation of the article on the site.
 
 ## Connexion
-Se connecter avec son login et mot de passe sur le site de la revue.
+Log in with your username and password on the journal’s website.
 
-Note : il n’est pas nécessaire d’ouvrir plusieurs comptes sur Episciences si le relecteur est sollicité par plusieurs revues hébergées sur la plateforme.
+Note: it is not necessary to open several accounts on Episciences if the reviewer is requested by several journals hosted on the platform.
 
-## Tableau de bord
-Le tableau de bord affiche les actions en cours sur le site : les relectures mais également les articles si l’utilisateur en a soumis.
+## Dashboard
+The dashboard displays the current actions on the site: reviews but also articles if the user has submitted any.
 
-![Alt text](img/review-3.png "Tableau de bord")
+![Alt text](img/review-3.png "Dashboard")
 
-Cliquer sur “Relire les articles” pour accéder aux articles.
+Click on “Rate articles” to access the articles.
 
-La page “Mes relectures” liste les articles pour lesquels l’utilisateur a reçu une invitation. 
+The “My reviewings” page lists the articles for which the user has received an invitation.
 
-Chaque article a un statut : les relectures en attente apparaissent en haut du tableau.
+Each article has a status: pending reviews appear at the top of the table.
 
-L’utilisateur peut filtrer par statut de l’article, état de relecture, volume, rubrique, rédacteurs et DOI.
+The user can filter by article status, review status, volume, section, editors, DOI and repositories.
 
-![Alt text](img/review-4.png "Mes relectures")
+![Alt text](img/review-4.png "My reviewings")
 
 ## Processus
-En cliquant sur le titre de l’article, une nouvelle page s’ouvre permettant d’accéder à l’article à relire et au formulaire à renseigner pour l’évaluation.
+By clicking on the title of the article, a new page opens to access the article to be reviewed and the form to be filled in for the evaluation.
 
-Deux moyens sont proposés pour accéder à l’article :
-1. **Télécharger le fichier** ;
-2. **Visiter la page de l’article** : permet de consulter et de télécharger l’article sur le site de l’archive ouverte où il a été déposé. Il peut y avoir plusieurs versions du texte, ainsi que des documents annexes (jeu de données, fichier vidéo, diaporama, etc.).
+There are two ways to access the article:
+1. **Download the file** ;
+2. **Visit the article page**: allows you to consult and download the article on the open archive site where it has been deposited. There may be several versions of the text, as well as annexed documents (dataset, video file, slide show, etc.).
 
-### Renseignement de la grille d’évaluation
-Chaque revue a sa propre grille d’évaluation dont les différents critères consistent en des notes ou des items à sélectionner dans un menu déroulant.
+### Filling in the rating grid
+Each journal has its own rating grid, the different criteria of which consist of scores or items to be selected from a drop-down menu.
 
-En fonction des revues, le relecteur peut compléter l’évaluation par un commentaire et télécharger un fichier à destination de l’auteur : ce fichier peut être l’article annoté, ou toute information que le relecteur juge utile de communiquer à l'auteur.
+Depending on the journal, the reviewer can complete the grid with a comment and upload a file for the author: this file can be the annotated article, or any information that the reviewer seems useful to communicate to the author.
 
-Les échanges entre le relecteur et l’auteur sont sauvegardés sur la plateforme. Par défaut, le relecteur est anonyme. S’il le souhaite, il peut lever l’anonymat en ajoutant son nom dans l’espace “Commentaire”.
+The exchanges between the reviewer and the author are saved on the platform. By default, the reviewer is anonymous. If he/she wishes, he/she can lift the anonymity by adding his/her name in the “Comment” space.
 
-![Alt text](img/review-5.png "Envoyer un message à l’auteur")
+![Alt text](img/review-5.png "Send a message to the author")
 
-### Validation de l’évaluation
-Lors de l’évaluation, deux options sont possibles :
-1. **Enregistrer l’évaluation** : permet de sauvegarder les informations saisies au cours de la relecture si celle-ci n’est pas terminée. 
-2. **Terminer l’évaluation** : permet de valider les informations saisies et de les transmettre au rédacteur en charge de l’article.
+### Validation of reviewing
+During the assessment, two options are available:
+1. **Save evaluation**: save the information entered during the review if the review is not completed.
+2. **Complete the evaluation**: allows you to validate the information entered and to send it to the editor in charge of the article.
