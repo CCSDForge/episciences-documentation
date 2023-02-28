@@ -2,7 +2,7 @@
 
 > **Rights**: Administrator
 
-To customize the journal settings, go to the menu: Journal management > Review > Settings.
+To customize the journal settings, go to the menu: Journal management > Journal > Settings.
 
 Fields marked with an asterisk are required.
 
