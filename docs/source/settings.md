@@ -1,102 +1,108 @@
 # Journal settings
 
-> **Rôle** : administrateur
+> **Rights**: Administrator
 
-Pour paramétrer la revue, aller dans : Gérer la revue > Revue > Paramètres.
+To customize the journal settings, go to the menu: Journal management > Review > Settings.
 
-Les champs marqués d’un astérisque sont obligatoires.
+Fields marked with an asterisk are required.
 
-## Paramètres généraux (affichés dans le pied de page)
-![Alt text](img/settings-1.png "Paramètres généraux")
+## General settings (displayed in the footer)
+![Alt text](img/settings-1.png "General settings")
 
-+ **ISSN (online)** : compléter avec l’e-ISSN de la revue au format XXXX-XXXX
-+ **ISSN (print)** : compléter avec l’ISSN de la revue au format XXXX-XXXX
-+ **DOI** : à renseigner si la revue possède un DOI
-+ **Page de contact de la revue** : indiquer ici une URL
-+ **Page de contact du support technique** : indiquer ici une URL
-+ **Courriel de contact de la revue** : indiquer ici une adresse de courriel
-+ **Courriel de contact du support technique** : indiquer ici une adresse de courriel
++ **ISSN (online)**: To be completed with the e-ISSN of the journal (XXXX-XXXX)
++ **ISSN (print)**: To be completed with the ISSN of the journal (XXXX-XXXX)
++ Your journal’s **DOI**: To be filled in if the journal has a DOI
++ **Journal contact URL**: Enter a URL here
++ **Journal technical contact URL**: Enter a URL here
++ **Journal contact email**: Enter an e-mail address here
++ **Journal technical contact email**: Enter an e-mail address here
 
-## Paramètres de soumission
-![Alt text](img/settings-2.png "Paramètres de soumission")
+## Submission parameters
+![Alt text](img/settings-2.png "Submission parameters")
 
-**Archives disponibles*** : sélectionner la ou les archives disponibles pour la soumission d’article. Pour en choisir plusieurs : maintenir la touche Ctrl enfoncée et cliquer.
+**Repositories***: Select the repository(ies) available(s) for article submission. To select more than one: hold down the Ctrl key and click.
 
-D’autres paramètres peuvent être activés :
+Other parameters can be activated:
 
-**Choix de section** :
-+ l’auteur **ne peut pas** choisir la section ;
-+ l’auteur **peut** choisir la section ;
-+ l’auteur **doit** choisir la section.
+**Section choice**:
++ Contributors **can’t** choose a section;
++ Contributors **can** choose a section;
++ Contributors **have to** choose a section.
 
-**Choix du rédacteur** :
-+ l’auteur **ne peut pas** choisir de rédacteurs ;
-+ l’auteur **peut** choisir des rédacteurs ;
-+ l’auteur **doit** choisir **des** rédacteurs ;
-+ l’auteur **doit** choisir **un seul** rédacteur.
+**Editor selection**:
++ Contributors **can’t** choose editors;
++ Contributors **can** choose editors;
++ Contributors **have to** choose editors;
++ Contributors **have to** choose one and only one editor.
 
-Il est également possible de permettre aux **auteurs** :
-+ de **suggérer des relecteurs** (ce paramètre n’assigne pas automatiquement le manuscrit à un relecteur, ce n’est qu’une suggestion) ;
-+ d’indiquer par qui ils ne souhaitent pas être relus ;
-+ de répondre à une demande de modifications par une version temporaire ;
-+ de choisir le volume ;
-+ de resoumettre un article déjà refusé (nouvelle version) ;
-+ d’abandonner le processus de publication.
+When the author has the option to propose an editor at the time of submission, it is possible to select this option: “Do not allow the selection of an editor in chief”.
 
-## Paramètres de relecture
-![Alt text](img/settings-3.png "Paramètres de relecture")
+It is also possible to allow contributors to:
++ **suggest reviewers** (this parameter does not automatically assign the manuscript to a reviewer, it is only a suggestion);
++ specify unwanted reviewers;
++ answer revision requests with a temporary version;
++ choose the volume;
++ submit a previously denied article again (new version);
++ abandon the publication process.
 
-+ **Délai avant expiration d’une invitation*** : indiquer ici un nombre de jour(s)/semaine(s)/mois
-+ **Délai de relecture par défaut*** : indiquer ici un nombre de jour(s)/semaine(s)/mois
-+ **Délai de relecture minimum*** : indiquer ici un nombre de jour(s)/semaine(s)/mois
-+ **Délai de relecture maximum*** : indiquer ici un nombre de jour(s)/semaine(s)/mois
-
-Les relances automatiques sont calculées à partir de ces paramètres.
-
-Autres options :
-+ Permettre aux relecteurs d’envoyer des messages à l’auteur
-+ Afficher les rapports de relecture sur la page de consultation d’un article
-
-Réassigner automatiquement les mêmes relecteurs quand une nouvelle version est soumise :
-+ En cas de demande de modifications majeures
-+ En cas de demande de modifications mineures
-
-## Paramètres des rédacteurs
-![Alt text](img/settings-4.png "Paramètres des rédacteurs")
-
-**Minimum de relectures requis** : indiquer ici le nombre minimum de relectures avant de pouvoir accepter un article
-
-**Autres options** :
-
-Cloisonner les rédacteurs : s’ils sont cloisonnés, les rédacteurs ne peuvent voir que les articles qui leur sont assignés
-+ Les rédacteurs peuvent accepter les articles
-+ Les rédacteurs peuvent publier les articles
-+ Les rédacteurs peuvent refuser les articles
-+ Les rédacteurs peuvent demander des modifications sur les articles
-+ Permettre aux rédacteurs de modifier les templates de mails
-
-Lorsqu’un article est soumis, assigner les :
-+ Rédacteurs en chef
-+ Rédacteurs de section
-+ Rédacteurs de volume (hors volume spécial)
-+ Rédacteurs suggérés par le contributeur
-+ Rédacteurs de volume spécial
+A new option allows the author to delegate to the journal the updating of their submission published on arXiv:
++ Contributors can share arXiv paper password: No/Optional/Required.
 
 
+## Rating settings
+![Alt text](img/settings-3.png "Rating settings")
 
-+ Permettre aux rédacteurs d’abandonner le processus de publication
+For each option, indicate a number of day(s)/week(s)/month(s).
 
-## Paramètres de notification
-Permettent d’activer des envois de mails à certains rôles (administrateurs, rédacteurs en chef, secrétaires de rédaction) lorsqu’un article est soumis, mis à jour ou refusé.
++ **Delay before invitation expires***
++ **Default rating delay***: Delay before the reviewer has to send the rating report. The deadline is calculated from the date when the invitation was sent.
++ **Minimum rating delay***: When handling an article, editors can set a custom rating delay for each reviewer. This delay cannot be lesser than the Minimum rating delay.
++ **Maximum rating delay***: When handling an article, editors can set a custom rating delay for each reviewer. This delay cannot be greater than the Maximum rating delay.
 
-## Paramètres des volumes spéciaux
-Permet d’attribuer un code d’accès afin de permettre la soumission dans les volumes spéciaux et également de cloisonner les relecteurs d’un volume spécial.
+Automatic dunning is calculated from these parameters.
 
-## Préparation de copie
-Permet de cloisonner les préparateurs de copie, c'est-à-dire de leur donner accès seulement aux articles qui leur sont assignés.
+Others options:
++ Reviewers can send messages to the author;
++ Display rating reports on the article's consultation page (this option concerns only published articles).
 
-## Conflit d’intérêts
-Il est possible d’activer une option pour permettre aux rédacteurs de déclarer un conflit d’intérêts avant l’évaluation.
+Automatically reassign the same reviewers when a new version is submitted:
++ In the event of a request for major modifications;
++ In the event of a request for minor modifications.
 
-## Article - décision finale
-Permet de modifier certaines choses sur un article déjà accepté.
+## Editors settings
+![Alt text](img/settings-4.png "Editors settings")
+
+**Minimum ratings count**: indicate here the minimum number of reviews before an article can be accepted.
+
+**Others options**:
++ Encapsulate editors: Encapsulated editors can only see articles assigned to them.
++ Editors can accept articles
++ Editors can publish articles
++ Editors can refuse articles
++ Editors can ask for article revisions
++ Editors can edit the journal mail templates
+
+When an article is submitted, assign the:
++ Editors in Chief
++ Section editors
++ Volume editors (except special volume)
++ Suggested editors
++ Special volume editors
+
+
++ Editors can abandon the publication process
+
+## Notification settings
+Enable emails to be sent to certain roles (administrators, editors in chief, editorial secretaries) when an article is submitted, updated or rejected.
+
+## Special issues settings
+Allows you to assign an access code to enable submission in special volumes and also to partition the reviewers of a special volume.
+
+## Copy editing
+Allows partitioning of copy editors, i.e. giving them access only to items assigned to them.
+
+## Additional settings
++ Allows reviewers to **declare a conflict of interest** (COI) before the assessment.
++ Allows you to change certain things on an already accepted article.
++ **Statistics visibility**: hidden (default option)/public/administrators only
++ **Redirection address**: Select the address that will receive the failed emails.
