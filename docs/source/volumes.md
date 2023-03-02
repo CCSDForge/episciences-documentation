@@ -1,81 +1,76 @@
 # Volumes and sections
 
-> **Rôles** : administrateur, rédacteur en chef, secrétaire de rédaction
+> **Rights**: Administrator, Editor in Chief, Editorial secretary
 
-Il est possible de créer des volumes et des rubriques.
+It is possible to create volumes and sections.
 
-Les volumes s’apparentent à des numéros de revues et permettent de rassembler des articles thématiques.
+Volumes are similar to journal issues and can be used to collect thematic articles.
 
 ## Volumes
-Pour créer et gérer les volumes, aller dans : Gérer la revue > Revue > Volumes.
+To create and manage volumes, go to the menu: Journal management > Journal > Volumes.
 
-![Alt text](img/volumes-1.png "Créer un volume")
+![Alt text](img/volumes-1.png "Volumes")
 
-Plusieurs volumes peuvent être ouverts en même temps. Les auteurs peuvent soumettre à n’importe quel volume ouvert. Avant publication, le rédacteur en chef peut modifier le volume d’un article.
+Several volumes may be open at the same time. Authors may submit to any open volume. Before publication, the editor may change the volume of an article.
 
-Un article ne peut être soumis à un volume fermé.
+An article cannot be submitted to a closed volume.
 
-Après publication, un article ne peut être affecté à un autre volume.
+After publication, an article cannot be assigned to another volume.
 
-Pour créer un volume, cliquer sur “Créer un volume”.
+To create a volume, click on "Create a new volume".
 
-![Alt text](img/volumes-2.png "Créer un volume : formulaire")
+![Alt text](img/volumes-2.png "Create a new volume")
 
-Un volume est composé de 7 éléments :
-- **Nom** (obligatoire) : titre du volume
-- **Description** : description du volume
-- **Référence bibliographique du volume** : indiquer ici l’identifiant du volume (ex : 18, vol. 2, vol.24:1). Cette 
-  référence est reprise dans les templates de mail.
-- **Statut** (ouvert/fermé) : un statut ouvert permet d’ajouter des articles au fil de l’eau
-- **Volume en cours** (oui/non) : en sélectionnant l’option “oui” et le statut “ouvert”, ce volume est proposé lors du 
-  dépôt
-- **Volume spécial** (oui/non) : volume accessible uniquement sur code d’accès
-- **Métadonnées** : permet d’ajouter un fichier PDF, comme un édito, un erratum, un addendum, des remerciements, un 
-  hommage, etc.
+A volume is composed of 7 elements:
+- **Name*** (required field): title of the volume
+- **Description**: description of the volume
+- **Volume’s bibliographical reference**: indicate here the identifier of the volume (e.g. 18 ; vol. 2 ; vol.24:1). This reference is used in the mail templates.
+- **Status** (open/closed): an open status allows articles to be added as they come in.
+- **Current volume** (yes/no): by selecting the "yes" option and the "open" status, this volume is proposed at the time of submission
+- **Special issue** (yes/no): volume accessible only by access code
+- **Metadata**: allows you to add a PDF file, such as an editorial, an erratum, an addendum, thanks, a tribute, etc.
 
-Si le site de la revue est en plusieurs langues, le nom du volume et la description doivent être saisis pour chacune des langues. Cliquer sur + pour afficher le champ.
+If the journal site is in multiple languages, the volume name and its description must be entered for each language. Click on + to display the field.
 
-##  Volume spécial
-Le fonctionnement d’un volume spécial est lié aux paramètres des volumes spéciaux définis dans la rubrique Revue > Paramètres > Paramètres des volumes spéciaux :
+##  Special issue
+The operation of a special issue is linked to the special issue settings defined in Journal > Settings > Special issues settings:
 
-- **Protéger la soumission dans les volumes spéciaux par un code d’accès** : si l’item est coché, un code d’accès est 
-associé au volume. Ce code est envoyé aux contributeurs pour les inviter à soumettre un article dans le volume spécial.
-- **Cloisonner les relecteurs** : si l’item est coché, les relecteurs d’un volume ne seront pas visibles ailleurs 
-  dans la revue. Un relecteur cloisonné est un relecteur autorisé à relire uniquement les articles destinés au volume spécial. Il ne voit alors que les articles fléchés vers le volume spécial et pas les autres articles de la revue.
-- **Les rédacteurs peuvent réattribuer la gestion de l’article** : un rédacteur, à qui le rédacteur en chef a 
-  attribué la 
-  gestion d’un article, peut désigner d’autres rédacteurs.
+- **Restrict submission in special issues with an access code**: if the item is ticked, an access code is associated with the volume. This code is sent to contributors to invite them to submit an article in the special volume.
+- **Encapsulate reviewers**: if the item is ticked, the reviewers of a volume will not be visible elsewhere in the journal. A partitioned reviewer is a reviewer who is only allowed to review articles for the special volume. The proofreader will only see articles that are tagged to the special volume and not other articles in the journal.
+- **Editors can reassign handled articles to another editor**: an editor, to whom the editor-in-chief has assigned the management of an article, can designate other editors.
 
-Pour créer un volume spécial, aller dans : Gérer la revue > Revue > Volumes puis “Créer un volume”.
+To create a special issue, go to the menu: Journal management > Journal > Volumes then "Create a new volume".
 
-Renseigner les éléments et sélectionner “Oui” pour “Volume spécial”.
+Fill in the details and select "Yes" for "Special issue".
 
-![Alt text](img/volumes-3.png "Créer un volume spécial")
+![Alt text](img/volumes-3.png "Create a special issue")
 
-Si dans Revue > Paramètres > Paramètres des volumes spéciaux, vous avez sélectionné l’item “Protéger la soumission dans les volumes spéciaux par un code d’accès”, le code s’affiche dans la liste des volumes.
+If in Journal > Settings > Special issues settings you have selected the item "Restrict submission in special issues with an access code", the code is displayed in the list of volumes.
 
-![Alt text](img/volumes-4.png "Volume spécial : code d’accès")
+![Alt text](img/volumes-4.png "Create a special issue: access code")
 
-Ce code est envoyé aux contributeurs pour les inviter à soumettre un article dans le volume spécial. 
+This code is sent to contributors inviting them to submit an article to the special issue.
 
-## Rubriques
-Pour créer et gérer les rubriques, aller dans Gérer la revue > Revue > Rubriques.
+## Sections
+To create and manage sections, go to the menu: Journal management > Journal > Sections.
 
-![Alt text](img/sections-1.png "Créer une rubrique")
+![Alt text](img/sections-1.png "Sections")
 
-Plusieurs rubriques peuvent être ouvertes en même temps. Un auteur peut soumettre un article dans n’importe quelle rubrique.
+Several sections can be open at the same time. An author can submit an article to any section.
 
-Pendant le processus de relecture, un article peut être affecté à une autre rubrique par le rédacteur en chef (impossible après publication).
+During the proofreading process, an article may be assigned to another section by the editor (not possible after publication).
 
-Un article ne peut être soumis à une rubrique de statut “fermé”.
+An article cannot be submitted to a "closed" section.
 
-Le nombre de rubriques n’est pas limité.
+The number of sections is not limited.
 
-![Alt text](img/sections-2.png "Créer une rubrique : champs à renseigner")
+To create a section, click on "Create a new section".
 
-Les métadonnées d’une rubrique :
-- **Nom** : champ obligatoire
-- **Description** : ne sera pas affichée sur le site
-- **Statut** : ouvert/fermé
+![Alt text](img/sections-2.png "Create a new section")
 
-Si le site de la revue est en plusieurs langues, le nom de la rubrique doit être saisi pour chacune des langues. Cliquer sur + pour afficher le champ.
+The metadata of a section:
+- **Name*** (required field): title of the section
+- **Description**: will not be displayed on the site
+- **Status**: open/closed
+
+If the journal site is in multiple languages, the section name and its description must be entered for each language. Click on + to display the field.
