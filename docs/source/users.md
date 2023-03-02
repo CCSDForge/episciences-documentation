@@ -1,31 +1,30 @@
 # Managing users
 
-> Rôles : administrateur, rédacteur en chef, secrétaire de rédaction
+> Rights: Administrator, Editor in Chief, Editorial secretary
 
-Pour gérer les utilisateurs de la revue (création de compte, ajout de rôles, etc.), aller dans : Gérer la revue > Utilisateurs > Liste.
+To manage the users of the journal (create an account, add roles, etc.), go to the menu: Journal management > Users > List.
 
-**Bonne pratique**
+**Good practice**
 
-Avant de créer un compte pour un nouvel utilisateur, veuillez vérifier que celui-ci n’existe pas déjà dans la base des utilisateurs. Pour vérifier que l’utilisateur n’a pas déjà des droits dans la revue, renseignez le nom de la personne dans le champ de recherche situé en haut à droite de la liste des utilisateurs.
+Before creating an account for a new user, please check that the user does not already exist in the user database. To check that the user does not already have rights in the journal, enter the person’s name in the search field at the top right of the user list.
 
-![Alt text](img/users-1.png "Ajouter un utilisateur")
-Il est possible d’inviter de nouveaux utilisateurs (auteurs, relecteurs ou rédacteurs) sur le site de la revue. Pour cela, indiquez le nom de l’utilisateur à ajouter dans le champ dédié. Si la recherche ne retourne aucun résultat, il est possible de créer un compte pour l’utilisateur en cliquant sur le bouton “Créer un nouveau compte”. 
+![Alt text](img/users-1.png "Add a new user")
+It is possible to invite new users (authors, reviewers or editors) to the journal site. To do this, enter the name of the user to be added in the dedicated field. If the search does not return any results, it is possible to create an account for the user by clicking on the “Create a new account” button.
 
-![Alt text](img/users-2.png "Créer un compte")
+![Alt text](img/users-2.png "Create a new account")
 
-Champs obligatoires pour la création d’un compte :
-- **Login** : au moins 3 caractères. Attention : le login ne peut pas être modifié une fois le compte créé ;
-- **Mot de passe** : 7 caractères minimum
-- **Nom**
-- **Prénom**
-- **Courriel** : indiquer ici une adresse mail valide, un courriel de confirmation sera envoyé pour valider la création 
-  du compte
+Required fields for account creation:
+- **Login**: at least 3 characters. Attention: the login cannot be changed once the account has been created.
+- **Password**: minimum 7 characters
+- **Password (confirm)**
+- **Last Name**
+- **First name**
+- **E-mail**: indicate here a valid email address, a confirmation email will be sent to validate the account creation
 
-Il est recommandé que les utilisateurs créent eux-mêmes leur compte (choix du login et du mot de passe). Une fois le compte créé, l’utilisateur pourra être sélectionné dans la liste.
+It is recommended that users create their own account (choice of login and password). Once the account is created, the user can be selected from the list.
 
-Par défaut, tout utilisateur a le rôle de *membre*, ce qui lui permet de soumettre un article. D’autres rôles peuvent 
-être ajoutés par le rédacteur en chef.
+By default, all users have the rights of member, which allows them to submit an article. Other rights can be added by the editor.
 
-Pour ajouter un ou des rôles, se positionner dans la colonne “Rôles” puis sélectionner le ou les rôles choisis parmi ceux proposés dans la liste.
+To add one or more rights, go to the “Rights” column and select the rights from the list.
 
-![Alt text](img/users-3.png "Ajouter un rôle")
+![Alt text](img/users-3.png "Add rights")
