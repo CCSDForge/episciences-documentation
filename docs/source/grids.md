@@ -1,66 +1,57 @@
-# Reviewing/rating grids
+# Rating grids
 
-> Rôles : administrateur, rédacteur en chef, secrétaire de rédaction
+> **Rights**: Administrator, Editor, Editor in Chief, Editorial secretary
 
-Une grille de relecture peut être élaborée pour guider les relecteurs grâce à une série de points prédéfinis à examiner. Les résultats des relectures peuvent ainsi être normalisés.
+A proofreading grid can be developed to guide proofreaders through a series of predefined points to be examined. The results of the reviews can then be standardised.
 
-Pour construire une grille de lecture, aller dans : Gérer la revue > Revue > Grille de relecture.
+To build a rating grid, go to the menu: Journal management > Journal > Rating Grids.
 
-Une grille de relecture est composée d’un nom et d’une série de critères.
+A rating grid is composed of a name and a set of criteria.
 
-## Grille par défaut
-![Alt text](img/grids-1.png "Grille par défaut")
+## Default grid
+![Alt text](img/grids-1.png "Default grid")
 
-Une grille de relecture est proposée par défaut. D’autres grilles peuvent être ajoutées, en fonction des besoins, par exemple pour faire une distinction entre volumes courants et volumes d’actes de conférence.
+A proofreading grid is proposed by default. Other grids can be added, depending on the needs, for example to distinguish between current volumes and conference proceedings volumes.
 
-La grille par défaut est modifiable. Chaque critère peut être modifié ou supprimé.
+The default grid can be modified. Each criterion can be modified or deleted.
 
-## Ajouter un critère
-Une grille de relecture est composée d’autant de critères que nécessaire. Pour définir un critère, cliquer sur “Ajouter un critère”.
-![Alt text](img/grids-2.png "Ajouter un critère")
+## Add criterion
+A proofreading grid is composed of as many criteria as necessary. To define a criterion, click on “Add criterion”.
 
-Les champs marqués d’un astérisque sont obligatoires :
-- **Nom*** : si le site de la revue est en plusieurs langues, le nom doit être saisi pour chacune des langues. Cliquer 
-sur + pour afficher un champ supplémentaire.
-- **Description** : à utiliser pour définir les critères proposés aux relecteurs. Si le site de la revue est en 
-  plusieurs langues, la description doit être saisie pour chacune des langues. Cliquer sur + pour afficher un champ supplémentaire.
-- **Visibilité du critère** : sélectionner Publique/Contributeur/Rédacteurs. Par défaut, le critère n’est visible que 
-  des rédacteurs.
-- **Type d’évaluation** : l’évaluation peut être quantitative, qualitative ou libre. Si “Qualitative” ou “Libre” est 
-  sélectionné, il conviendra de sélectionner “oui” dans le champ “Commentaires” ou dans “Upload de fichier”.
-- **Commentaires** : oui/non. Si le choix est “oui”, le relecteur peut ajouter un commentaire sur ce critère.
-- **Upload de fichier** : oui/non. Si le choix est “oui”, le relecteur peut télécharger le texte original annoté.
-- **Coefficient** : un coefficient peut être attribué au critère. Le chiffre le plus élevé correspond au niveau de 
-  pondération le plus haut. La somme des coefficients des différents critères déterminera une note finale.
-- **Type de notation** :
-  - quand le type d’évaluation sélectionné est “Quantitatif”, trois types de notation sont proposés (notation sur 10, 
-  sur 5 ou personnalisée)
-  - quand le type d’évaluation sélectionné est “Qualitatif”, il est possible de choisir entre une “notation classique 
-    (oui, non, peut-être)” ou une “notation personnalisée”. Pour cette dernière, différentes valeurs peuvent être ajoutées, par exemple : mauvais, moyen, bon, excellent.
+![Alt text](img/grids-2.png "Add criterion")
 
-Une fois les champs complétés, cliquer sur “Valider” pour enregistrer le critère.
+Fields marked with an asterisk are required:
+- **Name***: if the journal site is in several languages, the name must be entered for each language. Click on + to display an additional field.
+- **Description**: to be used to define the criteria proposed to the reviewers. If the journal site is in several languages, the description must be entered for each language. Click on + to display an additional field.
+- **Criterion visibility**: select Public/Contributor/Editors. By default, the criterion is only visible to editors.
+- **Evaluation type**: the evaluation can be quantitative, qualitative or free. If “Qualitative” or “Free” is selected, “yes” should be selected in the “Comments” field or in “File upload”.
+- **Comments**: yes/no. If “yes” is selected, the reviewer can add a comment on this criterion.
+- **File upload**: yes/no. If the choice is “yes”, the reviewer can upload the original annotated text.
+- **Coefficient**: a coefficient can be assigned to the criterion. The highest number corresponds to the highest weighting level. The sum of the coefficients of the different criteria will determine a final score.
+- **Rating type**:
+  - when the selected evaluation type is “Quantitative”, three types of scoring are proposed (scoring out of 10, out of 5 or personalised);
+  - when the selected evaluation type is “Qualitative”, it is possible to choose between a “standard rating (yes, no, maybe)” or a “customized rating”. For the latter, different values can be added, e.g. poor, average, good, excellent.
 
-## Ajouter un séparateur
-Pour organiser les critères de la grille, il est possible d’ajouter un ou plusieurs séparateurs. Les séparateurs permettent de structurer la grille en différentes parties, par exemple : “Qualité”, “Intérêt du sujet”, etc. Pour créer un séparateur, cliquer sur “Ajouter un séparateur”.
+Once the fields have been completed, click on “Validate” to save the criteria.
 
-![Alt text](img/grids-3.png "Ajouter un séparateur")
+## Add a separator
+To organise the criteria of the grid, one or more separators can be added. The separators allow you to structure the grid in different parts, for example: “Quality”, “Interest of the subject”, etc. To create a separator, click on “Add a separator”.
 
-Les champs marqués d’un astérisque sont obligatoires :
-- **Nom*** : si le site de la revue est en plusieurs langues, le nom doit être saisi pour chacune des langues. Cliquer 
-sur + pour afficher un champ supplémentaire.
-- **Description** : à utiliser pour définir les critères proposés aux relecteurs. Si le site de la revue est en 
-  plusieurs langues, la description doit être saisie pour chacune des langues. Cliquer sur + pour afficher un champ supplémentaire.
-- **Visibilité du critère** : sélectionner Publique/Contributeur/Rédacteurs. Par défaut, le critère n’est visible que 
-  des rédacteurs.
+![Alt text](img/grids-3.png "Add a separator")
 
-Une fois les champs complétés, cliquer sur “Valider” pour enregistrer le séparateur.
+Fields marked with an asterisk are required:
+- **Name***: if the journal site is in several languages, the name must be entered for each language. Click on + to display an additional field.
+- **Description**: if the journal site is in several languages, the description must be entered for each language. Click on + to display an additional field.
+- **Criterion visibility**: select Public/Contributor/Editors. By default, the criterion is only visible to editors.
 
-## Visualiser la grille
-En cliquant sur “Visualiser la grille”, la grille telle qu’elle sera proposée aux relecteurs s’affiche.
+Once the fields have been completed, click on “Validate” to save the separator.
 
-![Alt text](img/grids-4.png "Visualiser la grille")
+## View the grid
+By clicking on “View this Grid”, the grid as it will be proposed to the reviewers is displayed.
 
-Une icône de couleur précise la visibilité du crtière :
-- rouge : la réponse à ce critère peut être visible publiquement sur la page de l’article
-- orange : la réponse à ce critère peut être vue par l’auteur
-- gris : la réponse à ce critère ne peut être vue que par les rédacteurs
+![Alt text](img/grids-4.png "View the grid")
+
+A coloured icon indicates the visibility of the criterion:
+- red: the answer to this criterion can be seen publicly on the article page;
+- orange: the answer to this criterion can be seen by the author;
+- grey : the answer to this criterion can only be seen by the editors.
