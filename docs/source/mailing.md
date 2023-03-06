@@ -1,35 +1,33 @@
-# Emailing module
-> **Rôles** : administrateur, rédacteur, rédacteur en chef, secrétaire de rédaction, webmaster
+# Mailing module
+> **Rights**: Administrator, Editor, Editor in Chief, Editorial secretary, Webmaster
 
 ## Mailing
-Pour gérer l’envoi de mails à certains rôles, aller dans : Gérer la revue > Mails > Mailing.
+To manage the sending of emails to certain roles, go to: Journal management > Mail > Mailing.
 
 ![Alt text](img/mailing-1.png "Mailing")
 
-Un message peut être envoyé à un destinataire particulier ou à un groupe de destinataires sélectionnés en fonction de leur rôle dans la revue. Les rôles sélectionnables sont : rédacteurs en chef, rédacteurs invités, rédacteurs, secrétaire de rédaction, webmasters, relecteurs.
+A message can be sent to a specific recipient or to a group of recipients selected according to their role in the journal. The selectable roles are: editor in chief, editors, guest editors, editorial secretary, webmasters, proofreaders.
 
-Pour choisir le ou des destinataires, cliquer sur “À”, “Cc” ou “Bcc” puis sur “Tous les contacts”.
+To select the recipient(s), click on “To”, “Cc” or “Bcc” and then on “All contacts”.
 
-![Alt text](img/mailing-2.png "Choix du ou des destinataires")
+![Alt text](img/mailing-2.png "Select the recipients")
 
 ## Templates
-Un certain nombre de mails pré-paramétrés (templates) sont disponibles dans le site.
+A number of pre-configured emails (templates) are available on the site.
 
-Pour consulter et modifier ces templates, aller dans : Gérer la revue > Mails > Templates.
+To consult and modify these templates, go to: Journal management > Mail > Templates.
 
-![Alt text](img/mailing-3.png "Liste des templates")
+![Alt text](img/mailing-3.png "List of templates")
 
-Pour modifier un template, cliquer sur le bouton “Modifier”.
+To modify a template, click on the “Edit” button.
 
-Le nom du template, son sujet et son contenu peuvent être personnalisés.
+The name of the template, its subject and its content can be customised.
 
-![Alt text](img/mailing-4.png "Modifier un template")
+![Alt text](img/mailing-4.png "Modify the template")
 
-Pour personnaliser les modèles, consulter la liste des variables à insérer dans les templates.
+To customise the templates, see the list of variables to be inserted in the templates.
 
-## Historique des échanges
-Tous les messages envoyés via le site (notifications automatiques comme mails), sont accessibles via l’historique disponible dans Gérer la revue > Mails > Historique.
+## History
+All messages sent via the site (automatic notifications as well as emails), are accessible via the history available in Journal management > Mails > History.
 
-Par défaut, les échanges sont affichés par date d’envoi, les échanges les plus récents s’affichant en premier.
-
-![Alt text](img/mailing-5.png "Historique")
+By default, exchanges are displayed by date sent, with the most recent exchanges displayed first.
