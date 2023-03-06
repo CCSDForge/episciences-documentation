@@ -1,95 +1,92 @@
 # Copy editing
-> **Rôles** : auteur, préparateur de copie
+> **Rights**: Author, Copy editor
 
-La préparation de copie (ou copy editing) est une étape qui intervient après l’acceptation de l’article.
+Copy editing is a step that takes place after the article has been accepted.
 
-Cette étape permet de confier la mise en forme finale soit :
-- à une personne avec un rôle dédié (préparateur de copie) ;
-- à l’auteur.
+This stage allows you to entrust the final formatting either:
+- to a person with a dedicated role (copy editor);
+- to the author.
 
-La préparation de copie peut également être faite par les rôles suivants :
-- administrateur
-- rédacteur en chef
-- secrétaire de rédaction
-- rédacteur (pour ses articles assignés)
+Copy editing can also be done by the following roles:
+- administrator
+- editor in chief
+- editorial secretary
+- editor (for their assigned articles)
 
-## Le rôle de préparateur de copie
-Le rôle de préparateur de copie peut être attribué à une ou plusieurs personnes. Pour ajouter ce rôle à un ou plusieurs utilisateurs, aller dans : Gérer la revue > Utilisateurs > Liste.
+## The role of the copy editor
+The copy editor role can be assigned to one or more people. To add this role to one or more users, go to: Journal management > Users > List.
 
-La personne disposant du rôle de préparateur de copie doit ensuite être ajoutée aux articles sur lesquels elle doit intervenir.
+The person with the copy editor role should then be added to the articles on which they have to work.
 
-![Alt text](img/copyediting-1.png "Ajouter un préparateur de copie à l’article")
+![Alt text](img/copyediting-1.png "Add a copy editor")
 
-## Activité du préparateur de copie
-Le premier choix à faire sur un article accepté est de sélectionner le type de flux de travail souhaité :
-- **Option 1** : la revue se charge de la mise en forme. L’auteur fournit les sources au préparateur de copie qui 
-s’occupera de la mise en forme de la version finale ;
-- **Option 2** : l’auteur met lui-même en forme la version finale.
+## Activity of the copy editor
+The first choice to be made on an accepted article is to select the type of workflow desired:
+- **Option 1**: the journal does the formatting. The author provides the sources to the copy editor who will edit the final version;
+- **Option 2**: the author formats the final version themself.
 
-![Alt text](img/copyediting-2.png "Changer le statut de l’article")
+![Alt text](img/copyediting-2.png "Change article status")
 
-### Option 1 : la revue prend en charge la préparation de copie
-Choisir l’option “Demander à l’auteur ses sources (À mettre en forme par la revue)”.
+### Option 1: The journal takes care of the copy editing
+Choose the option “Ask the author for the sources (copy editing by the journal)”.
 
-Une fenêtre permet de personnaliser le message à envoyer à l’auteur pour lui demander de déposer ses sources sur le site de la revue.
+A window allows you to customise the message to be sent to the author to ask him/her to deposit their sources on the journal’s website.
 
-Dès que l’auteur a déposé ses sources, un mail est envoyé au préparateur de copie lui permettant de récupérer les fichiers sur le site. Si les fichiers ne conviennent pas, il est possible de demander d’autres sources à l’auteur. Pour cela, dans “Statut de l’article”, sélectionner “Redemander à l’auteur ses sources (À mettre en forme par la revue)”.
+As soon as the author has uploaded their sources, an e-mail is sent to the copy editor allowing them to retrieve the files from the site. If the files are not suitable, it is possible to request other sources from the author. To do this, in “Article status”, select “Ask for the author’s sources again (To be formatted by the journal)”.
 
-![Alt text](img/copyediting-6.png "Redemander à l’auteur ses sources")
+![Alt text](img/copyediting-6.png "Ask for the author’s sources again")
 
-Si tout est correct, télécharger les fichiers, procéder à la mise en forme et valider en sélectionnant “Mise en forme revue terminée, demander la version finale”. Ceci permet d’envoyer un message à l’auteur.
+If everything is correct, upload the files, proceed with the formatting and validate by selecting “Copy editing by the journal completed, ask for the final version”. This sends a message to the author.
 
-Le message contient un lien permettant à l’auteur de soumettre, après dépôt dans l’archive ouverte, la version finale de son manuscrit qui sera alors publié par la revue.
+The message contains a link allowing the author to submit, after deposit in the open repository, the final version of their manuscript which will then be published by the journal.
 
-Le travail de préparation de copie est alors terminé.
+The work of copy editing is then complete.
 
-#### Ajout des sources par l’auteur
-Pour téléverser les fichiers sources, cliquer sur le bouton “Ajouter les fichiers sources”.
+#### Adding sources by the author
+To upload the sources files, click on the “Add source files” button.
 
-![Alt text](img/copyediting-3.png "Ajouter les fichiers sources")
+![Alt text](img/copyediting-3.png "Add source files")
 
-Il est possible de modifier le message prédéfini.
+The predefined message can be changed.
 
-![Alt text](img/copyediting-4.png "Modification du message prédéfini")
+![Alt text](img/copyediting-4.png "Modify the message")
 
-Une fois le(s) fichier(s) sélectionné(s), cliquer sur “Envoyer” pour les transmettre. Un récapitulatif du mail et des fichiers envoyés s’affiche alors.
+Once you have selected the file(s), click on “Send” to send them. A summary of the e-mail and the files sent will be displayed.
 
-![Alt text](img/copyediting-5.png "Récapitulatif des sources déposées")
+![Alt text](img/copyediting-5.png "Summary of deposited sources")
 
-Si besoin, d’autres envois ultérieurs sont possibles avec d’autres fichiers. À chaque fois, une notification est envoyée au préparateur de copie.
+If necessary, further shipments are possible with other files. Each time, a notification is sent to the copy editor.
 
-### Option 2 : l’auteur prend en charge la préparation de copie
-Choisir l’option “Demander la version finale (À mettre en forme par l’auteur)”.
+### Option 2: The author takes care of the copy editing
+Choose the option “Ask for the final version (copy editing by the author)”.
 
-Une fenêtre permet de personnaliser le message à envoyer à l’auteur. Le message est pré-rempli selon un template personnalisable par la revue qui permet d’ajouter automatiquement les informations dont l’auteur a besoin, ainsi que des éléments permettant de styler le manuscrit pour sa version finale.
+A window allows you to customise the message to be sent to the author. The message is pre-filled according to a template that can be customised by the journal, which automatically adds the information the author needs, as well as elements allowing the manuscript to be styled for its final version.
 
-Les informations présentes dans le message doivent permettre à l’auteur d’avoir accès à toutes les données nécessaires pour mettre en forme son article.
+The information in the message should allow the author to have access to all the data needed to format the article.
 
-![Alt text](img/copyediting-7.png "Exemple de message prêt à envoyer à l’auteur pour lui demander de formater son article")
+![Alt text](img/copyediting-7.png "Example of a message ready to be sent to the author to ask them to format their article")
 
-> **Important**
-L’administrateur du site doit avoir créé au préalable une archive .zip (nommé selon le format : titre_court_de_la_revue_episciences.zip) dans le répertoire “Ressources” (Gérer la revue > Site web > Ressources). Cette archive contient les fichiers à utiliser pour la mise en forme, par exemple les différents éléments graphiques, la feuille de style etc.
+> **Important** The site administrator must have previously created a .zip archive (named according to the format: 
+> short_journal_title.zip) in the “Resources” directory (Journal management > Website > Resources). This archive contains the files to be used for the formatting, for example the different graphic elements, the style sheet, etc.
 
 C’est ensuite à l’auteur de téléverser ses sources.
 
-#### Téléversement par l’auteur de sa version formatée
-L’auteur téléverse sa version formatée sur le site.
+#### Uploading of formatted version by the author
+The author uploads their formatted version to the site.
 
-![Alt text](img/copyediting-8.png "Ajouter la version formatée")
+Once the file has been selected, click on “Send” to send it. A summary of the e-mail and the file sent is displayed.
 
-Une fois le fichier sélectionné, cliquer sur “Envoyer” pour le transmettre. Un récapitulatif du mail et du fichier envoyé s’affiche.
+If necessary, other subsequent transmissions are possible with other files. Each time, a notification is sent to the copy editor.
 
-Si besoin, d’autres envois ultérieurs sont possibles avec d’autres fichiers. À chaque fois, une notification est envoyée au préparateur de copie.
+The copy editor receives an email notification when the author has uploaded their formatted version. It is then possible to proceed to the stage of accepting the author version or requesting another formatted version.
 
-Le préparateur de copie reçoit une notification par email quand l’auteur a déposé sa version formatée. Il est ensuite possible de passer à l’étape d’acceptation de la version auteur ou à la demande d’une autre version formatée.
+### Acceptance
+If the submitted version is not suitable, the copy editor can contact the author to request changes.
 
-### Acceptation
-Si la version déposée ne convient pas, le préparateur de copie peut contacter l’auteur pour lui demander des modifications.
+If the version is suitable, accept the author’s version: in “Article status”, select “Accept as final version”.
 
-Si la version convient, accepter la version de l’auteur : dans “Statut de l’article”, sélectionner  “Accepter comme version finale”.
+This sends a message to the author to deposit this validated version on the open repository.
 
-L’acceptation permet d’envoyer un message à l’auteur pour qu’il dépose cette version validée sur l’archive ouverte.
+The message also contains a link allowing the author to submit, after deposit in the open repository, the final version of their manuscript which will then be published by the journal.
 
-Le message contient également un lien permettant à l’auteur de soumettre, après dépôt dans l’archive ouverte, la version finale de son manuscrit qui sera alors publié par la revue.
-
-Le travail de préparation de copie est alors terminé.
+The work of copy editing is then complete.
