@@ -1,50 +1,49 @@
 # Automatic reminders
-> **Rôles** : administrateur, rédacteur, rédacteur en chef, secrétaire de rédaction
+> **Rights**: Administrator, Editor, Editor in Chief, Editorial secretary
 
-Pour créer et paramétrer les relances, aller dans : Gérer la revue > Mails > Relances automatiques.
+To create and set up the reminders, go to: Journal management > Mail > Automatic reminders.
 
-Le lancement des relances automatiques fonctionne à partir  :
-+ Des délais paramétrés pour la revue (voir Gérer la revue > Paramètres > Paramètres notification) ;
-+ Des paramétrages des rappels.
+The automatic dunning process is based on:
++ The deadlines set for the journal (see Journal management > Journal > Settings : Notification Settings);
++ Reminder settings.
 
-Trois types de relance sont proposés :
-1. **Invitation de relecteur sans réponse** : permet de relancer un relecteur qui n’a pas répondu à une invitation.
-2. **Rappel avant date de livraison de relecture** : permet de rappeler la date limite à un relecteur qui a accepté l’invitation.
-3. **Rappel après date de livraison de relecture** : permet de relancer un relecteur ayant accepté l’invitation mais 
-   qui a dépassé le délai.
+Three types of reminder are available:
+1. **Unanswered proofreader invitation**: to remind a proofreader who has not responded to an invitation;
+2. **Reminder before proofreading delivery date**: to remind a proofreader who has accepted the invitation of the deadline;
+3. **Reminder after proofreading delivery date**: allows you to remind a proofreader who has accepted the invitation but who has missed the deadline.
 
-Pour paramétrer, cliquer sur “Créer une relance automatique”. Un écran s’affiche avec une liste de paramètres à définir pour les types de relances souhaitées.
+To set up, click on “Add a new reminder”. A screen appears with a list of parameters to be defined for the desired dunning types.
 
-![Alt text](img/reminders-1.png "Créer une relance automatique : formulaire")
+![Alt text](img/reminders-1.png "Add a new reminder: form")
 
-Les champs marqués d’un astérisque sont obligatoires.
+Fields marked with an asterisk are required.
 
-+ **Type** : sélectionner le type de relance dans la liste déroulante. Au choix :
-  + Invitation de relecteur sans réponse 
-  + Rappel avant date de livraison de relecture 
-  + Relance après date de livraison de relecture 
-  + Rappel avant date limite de modification 
-  + Relance après date limite de modification 
-  + Pas assez de relecteurs 
-  + Article bloqué à l’état accepté
-+ **Destinataire** : sélectionner le rôle concerné dans la liste déroulante. Au choix :
-  + Rédacteur en chef 
-  + Rédacteur 
-  + Relecteur 
-  + Auteur
-+ **Délai*** : saisir un nombre correspondant au nombre de jours (la relance sera envoyée X jours après l’expiration du délai paramétré dans la revue).
-+ **Répétition** : sélectionner la fréquence des relances dans la liste déroulante. Au choix :
-  + Jamais 
-  + Quotidienne 
-  + Hebdomadaire 
-  + Toutes les deux semaines 
-  + Mensuelles
-+ **Personnalisation** : sélectionner “Template par défaut” (non modifiable) ou “Template personnalisé” afin de pouvoir modifier le sujet du mail et le texte du message.
++ **Type**: Select the type of dunning from the drop-down list. You can choose from the following:
+  + Unanswered reviewer invitation 
+  + Reminder before reviewing deadline 
+  + Reminder after reviewing deadline 
+  + Reminder before revision deadline 
+  + Reminder after revision deadline 
+  + Not enough reviewers 
+  + Article blocked in accepted state
++ **Recipient**: Select the relevant role from the drop-down list. You can choose one of the following:
+  + Editor in Chief 
+  + Editor 
+  + Reviewer 
+  + Author
++ **Delay***: enter a number corresponding to the number of days (the reminder will be sent X days after the deadline set in the journal).
++ **Repetition**: select the frequency of the reminders from the drop-down list. Choice of:
+  + Never
+  + Daily
+  + Weekly
+  + Every two weeks 
+  + Monthly
++ **Customization**: select “Default template” (cannot be changed) or “Custom template” in order to be able to change the subject of the mail and the text of the message.
 
-Cliquer sur “Valider” pour enregistrer vos modifications. Une relance automatique est créée. Il est possible de la modifier.
+Click on “Submit” to save your changes. An automatic dunning is created. It is possible to modify it.
 
-![Alt text](img/reminders-2.png "Créer une relance automatique : liste des relances")
+![Alt text](img/reminders-2.png "Automatic reminders: list of reminders")
 
-Les envois de rappels automatiques sont effectués tous les jours à 00:00.
+Automatic reminders are sent every day at 00:00.
 
-Les messages sont consultables dans l’historique des mails : Gérer la revue >  Mails > Historique.
+The messages can be viewed in the mail history: Journal management > Mail > History.
