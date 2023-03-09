@@ -1,158 +1,150 @@
 # Managing the website
-> Rôles : administrateur, rédacteur en chef, secrétaire de rédaction, webmaster
+> **Rights**: Administrator, Editor in Chief, Editorial secretary, Webmaster
 
-L’apparence du site web peut être personnalisée pour donner une identité visuelle spécifique à la revue.
+The design of the website can be customised to give the journal a specific visual identity.
 
-Pour personnaliser la revue, aller dans : Gérer la revue > Site web.
+To customise the journal, go to: Journal management > Website.
 
-Six options paramétrables sont proposées :
-- **Général** : définir les langues de l’interface ;
-- **Style** : définir les options d’affichage du site ;
-- **En-tête** : ajouter un bandeau ;
-- **Menu** : créer et gérer les pages d’information (charte éthique, fonctionnement de la revue, processus d’évaluation,
-  crédits, etc.) ;
-- **Actualités** : ajouter des informations ponctuelles (appels à contribution, annonce de colloque, recensions de la 
-  revue, etc.) ;
-- **Ressources** : stockage des différents fichiers textes et images du site (ex : logos, bandeau, contrat de cession 
-  de droits d’auteur, etc.) 
+Six configurable options are available:
+- **General**: define the interface languages (English and/or French);
+- **Style**: define the display options of the site;
+- **Header**: add a banner;
+- **Menu**: create and manage information pages (ethical charter, publishing policies, evaluation process, credits, etc.);
+- **News**: add specific information (calls for papers, conference announcements, reviews of the journal, etc.);
+- **Resources**: storage of the various text and image files of the site (e.g. logos, banner, copyright assignment contract, etc.). 
 
-## Général
-L’option “Général” permet de définir les langues de l’interface. Actuellement, il existe deux choix possibles : français et anglais.
+## General
+The “General” option allows you to define the interface languages. Currently, there are two possible choices: French and English.
 
-![Alt text](img/website-1.png "Choix des langues de l’interface")
+![Alt text](img/website-1.png "Choice of languages for the interface")
 
-Sélectionnez les langues souhaitées en cliquant sur leur intitulé (cliquez et appuyez sur Ctrl ou Cmd pour sélectionner la seconde langue, si votre site est bilingue).
+Select the desired languages by clicking on their labels (click and press Ctrl or Cmd to select the second language, if your site is bilingual).
 
-Cliquez sur “Enregistrer” pour sauvegarder le paramétrage choisi.
+Click on “Save” to save the chosen settings.
 
-À noter : si vous choisissez d’implémenter les deux langues, il conviendra de traduire toute l’interface dans ces deux langues (titres et contenus des pages créées par vos soins).
+Please note: if you choose to implement both languages, you will need to translate the entire interface into these two languages (titles and contents of the pages you have created).
 
 ## Style
-L’option “Style” permet de définir l’affichage du site. Vous pouvez choisir :
-- l’orientation du menu (horizontal ou vertical) ;
-- la largeur de la zone principale ;
-- l’affichage ou non du fil d’ariane ;
-- le type de personnalisation (en 1 clic, simple ou avancé).
+The “Style” option allows you to define the display of the site. You can choose:
+- the orientation of the menu (horizontal or vertical);
+- the width of the main zone;
+- the display or not of the breadcrumb trail;
+- the type of customisation (one-click, simple or advanced).
 
-### Orientation du menu
-Vous pouvez choisir entre un menu vertical (qui s’affiche à gauche de la page) ou horizontal (qui s’affiche en haut de la page, sous le bandeau de titre).
-Vous pouvez également choisir l’option “accordéon” pour chacune de ces deux orientations.
+### Menu orientation
+You can choose between a vertical menu (which is displayed on the left of the page) or a horizontal menu (which is displayed at the top of the page, below the title bar). You can also choose the “folded” option for each of these two orientations.
 
-![Alt text](img/website-2.png "Orientation verticale en accordéon")
+![Alt text](img/website-2.png "Vertical folded")
 
-![Alt text](img/website-3.png "Orientation horizontale en accordéon")
+![Alt text](img/website-3.png "Horizontal folded")
 
-### Largeur de la zone principale
-Deux possibilités sont proposées ici :
-- Par défaut (fixe 940px) ;
-- Fluide (dépend de l’écran).
+### Width of the main zone
+Two possibilities are proposed here:
+- Default (fixed 940px);
+- Responsive (adjusted to the screen side).
 
-### Afficher le fil d’ariane
-L’affichage du fil d’ariane permet de savoir à tout moment dans quelle page du site on se trouve.
+### Show breadcrumb trail
+The breadcrumb trail makes it possible to know at any time which page of the site you are on.
 
-Le fil d’ariane s’affiche en haut de page soit directement sous le bandeau (dans le cas d’un menu vertical), soit sous le menu (dans le cas d’un menu horizontal).
+The breadcrumb trail is displayed at the top of the page either directly under the banner (in the case of a vertical menu) or under the menu (in the case of a horizontal menu).
 
-![Alt text](img/website-4.png "Fil d’ariane orientation verticale")
+![Alt text](img/website-4.png "Breadcrumb trail in vertical menu")
 
-![Alt text](img/website-5.png "Fil d’ariane orientation horizontale")
+![Alt text](img/website-5.png "Breadcrumb trail in horizontal menu")
 
-### Type de personnalisation
-Il existe trois possibilités pour personnaliser votre site : en 1 clic, simple ou avancé.
+### Customisation type
+There are three ways to customise your site: one-click, simple or advanced.
 
-En sélectionnant l’**option “En 1 clic”**, vous aurez le choix entre deux modèles prédéfinis (modèle 1 et modèle 2).
-![Alt text](img/website-6.png "Type de personnalisation en 1 clic")
+By selecting the “1-click” option, you can choose between two predefined templates (template 1 and template 2).
 
-En sélectionnant l’**option “Simple”**, vous pouvez configurer les couleurs d’arrière-plan de la page, celle de la zone 
-principale, du texte et des liens, choisir la police et la taille du texte, des titres, etc.
-![Alt text](img/website-7.png "Type de personnalisation simple")
+![Alt text](img/website-6.png "Type of customisation in 1 click")
 
-En sélectionnant l’**option “Avancé”**, vous pouvez directement éditer la feuille de style CSS.
+By selecting the “Simple” option, you can configure the background colours of the page, the colours of the main area, the text and links, choose the font and size of the text, titles, etc.
 
-![Alt text](img/website-8.png "Type de personnalisation avancé")
+![Alt text](img/website-7.png "Simple customisation type")
 
-Vous pouvez faire appel à l’équipe Episciences pour être accompagné dans le choix des polices et des couleurs, afin de permettre l’accessibilité de votre site.
+By selecting the “Advanced” option, you can directly edit the CSS.
 
-## En-tête
-L’option “En-tête” permet de personnaliser le bandeau. Vous pouvez déposer ici les fichiers (images, logos, etc.) qui apparaîtront dans l’en-tête du site.
+![Alt text](img/website-8.png "Advanced customisation type")
 
-Cliquez sur le bouton "Ajouter un logo”. Si vous souhaitez saisir un texte dans l’en-tête, sélectionnez “Texte” dans le menu déroulant du champ “Type”. Saisissez le titre de votre revue et son alignement (gauche, centré ou droite). Si votre site est bilingue, pensez à préciser le titre dans les deux langues.
+You can call on the Episciences team to help you choose the right fonts and colours to make your site accessible.
 
-Si vous avez choisi la personnalisation avancée, vous pouvez ajouter un style en précisant les classes et styles CSS à attribuer au titre.
+## Header
+The “Header” option allows you to customise the banner. Here you can upload files (images, logos, etc.) that will appear in the header of the site.
 
-![Alt text](img/website-9.png "Ajouter un texte dans l’en-tête")
+Click on the “Add a logo” button. If you wish to enter a text in the header, select “Text” in the drop-down menu of the “Type” field. Enter the title of your magazine and its alignment (left, centered or right). If your site is bilingual, remember to specify the title in both languages.
 
-Si vous souhaitez ajouter une image, sélectionnez “Image” dans le menu déroulant du champ “Type” et téléchargez le fichier après l’avoir sélectionné avec “Parcourir”.
+If you have chosen advanced customisation, you can add a style by specifying the CSS classes and styles to be assigned to the title.
 
-![Alt text](img/website-10.png "Ajouter une image dans l’en-tête")
+![Alt text](img/website-9.png "Add text in the header")
 
-Cliquez sur “Enregistrer” pour sauvegarder le paramétrage.
+If you wish to add an image, select “Image” from the drop-down menu in the “Type” field and upload the file after selecting it with “Browse”.
+
+![Alt text](img/website-10.png "Add an image in the header")
+
+Click on “Save” to save the settings.
 
 ## Menu
-L’option “Menu” permet de créer et gérer les pages du site, notamment les pages d’information.
+The “Menu” option allows you to create and manage the pages of the site, especially the information pages.
 
-Il y a neuf types de pages :
-- **Page d’accueil** : une page unique, Une du site ;
-- **Page personnalisable** : pour créer des pages d’information (charte éthique, fonctionnement de la revue, processus 
-  d’évaluation, crédits, etc.) ;
-- **Lien** : permet de créer un lien vers une page extérieure (ex : le site de l’éditeur, la documentation Episciences, 
-  etc.) ;
-- **Fichier** : permet d’afficher un document dans le navigateur ou de le relier à une page ;
-- **Actualités** : permet d’ajouter des informations ponctuelles ;
-- **Flux RSS** : permet d’obtenir le flux des derniers articles publiés (papers.rss) ;
-- **Pages de consultation** par auteur, par date, par rubrique, par volumes, par derniers articles publiés, etc.
-- **Rechercher un article** : formulaire de recherche d’un article sur le site ;
-- **Membres du comité éditorial** : page qui génère automatiquement la liste des membres suivant leur rôle dans le site.
+There are nine types of pages:
+- **Homepage**: a single page, homepage of the site;
+- **Custom page**: to create information pages (ethical charter, publishing policies, evaluation process, credits, etc.);
+- **Link**: to create a link to an external page (e.g. the publisher's site, Episciences documentation, etc.);
+- **File**: to display a document in the browser or to link it to a page;
+- **News**: allows you to add specific information;
+- **RSS feed**: allows you to obtain the latest published articles (papers.rss);
+- **Browse by** author, by date, by section, all volumes, latest articles, etc.
+- **Search an article**: form to search for an article on the site;
+- **Editorial Staff members**: page that automatically generates the list of members according to their role in the site.
 
-### Créer une page
-Pour créer une page, sélectionnez son type dans le menu déroulant puis cliquez sur le bouton “Ajouter la page”.
+### Create a page
+To create a page, select its type from the drop-down menu and then click on the “Add page” button.
 
-![Alt text](img/website-11.png "Ajouter une page")
+![Alt text](img/website-11.png "Add page")
 
-Donnez un titre court à votre page : celui-ci fera office de permalien (lien permanent) et apparaîtra dans l’URL.
+Give your page a short title: this will act as a permalink and will appear in the URL.
 
-Si votre site est bilingue, pensez à préciser le titre de la page dans les deux langues.
+If your site is bilingual, remember to specify the title of the page in both languages.
 
-![Alt text](img/website-12.png "Créer une page personnalisable")
+![Alt text](img/website-12.png "Create a customisable page")
 
-Si vous saisissez “contact” dans le champ “Lien permanent”, le nom de la page sera : nomdelarevue.episciences.org/contact
+If you enter “contact” in the “Permanent link” field, the page name will be: journalsname.episciences.org/contact
 
-Vous pouvez décider de définir si les pages sont publiques, privées (réservées aux membres) ou uniquement visibles par certains rôles (personnalisée).
+You can decide whether the pages are public, private (Members only) or only visible to certain roles (Custom).
 
-### Créer un dossier
-Il est possible de créer des dossiers afin de regrouper plusieurs pages.
- Pour créer un dossier, cliquez sur “Ajouter un dossier”.
+### Create a folder
+It is possible to create folders to group several pages together. To create a folder, click on “Add folder”.
 
-![Alt text](img/website-13.png "Créer un dossier")
+![Alt text](img/website-13.png "Add folder")
 
-Si votre site est bilingue, pensez à préciser le titre du dossier dans les deux langues.
+If your site is bilingual, remember to specify the title of the folder in both languages.
 
-Exemple de menu dont les différentes pages ont été organisées en dossiers : “La revue” pour les pages présentant le 
-fonctionnement de la publication (Ligne éditoriale, Comités, Charte de fonctionnement, Processus d’évaluation), “Contribuer” pour les pages destinées aux auteurs qui souhaitent publier dans la revue (Charte éthique, Modalités de soumission, Recommandations aux auteurs) et “Informations” pour les pages de présentation générale de la revue (Appels à contribution, Politiques de publication).
+An example of a menu where the different pages have been organised into folders: “The journal” for the pages presenting the functioning of the publication (Editorial line, Committees, Operating charter, Evaluation process, etc.), “Contribute” for the pages intended for authors wishing to publish in the journal (Ethical charter, Submission procedures, Recommendations to authors, etc.) and “Information” for the pages presenting the general presentation of the journal (Calls for contributions, Publication policies, Credits).
 
-![Alt text](img/website-14.png "Exemple de menu")
+![Alt text](img/website-14.png "Example of menu")
 
-### Éditer une page
-Pour ajouter ou modifier du contenu sur une page, aller sur la page et cliquer sur “Modifier le contenu de la page”.
+### Edit a page
+To add or edit content on a page, go to the page and click on “Edit content page”.
 
-![Alt text](img/website-15.png "Modifier le contenu d’une page")
+![Alt text](img/website-15.png "Edit a page")
 
-## Actualités
-L’option “Actualités” permet d’ajouter des informations sur la page dédiée aux actualités. Celle-ci doit avoir été créée au préalable dans le menu.
+## News
+The “News” option allows you to add information to the news page. This page must have been created beforehand in the menu.
 
-Pour ajouter une actualité, cliquer sur le bouton “Ajouter une actualité”.
+To add a news item, click on the “Add news” button.
 
-![Alt text](img/website-16.png "Ajouter une actualité")
+![Alt text](img/website-16.png "Add news")
 
-Le formulaire de saisie d’une nouvelle actualité comporte quatre champs. Les champs marqués d’un astérisque sont obligatoires.
-- **Titre*** : titre de votre actualité
-- **Contenu** : description de l’actualité
-- **Lien** : url de la page permettant d’avoir davantage d’informations
-- **État** : invisible / en ligne. Le statut invisible pour permet de désafficher l’actualité sans toutefois la 
-  supprimer (pour la conserver en archives par exemple).
+The news entry form has four fields. Fields marked with an asterisk are required.
+- **Title***: title of your news item;
+- **Content**: description of the news item;
+- **Link**: url of the page where you can get more information;
+- **Status**: Invisible / Online. The invisible status allows you to unsee the news without deleting it (to keep it in archives for example).
 
-![Alt text](img/website-17.png "Exemple d’actualité")
+![Alt text](img/website-17.png "Example of news")
 
-## Ressources
-L’option “Ressources” liste l’ensemble des ressources (fichiers textes, images, etc.) déposées sur le site.
+## Resources
+The “Resources” option lists all the resources (text files, images, etc.) deposited on the site.
 
-![Alt text](img/website-18.png "Exemple de ressources pour le site CST")
+![Alt text](img/website-18.png "Example of resources")
